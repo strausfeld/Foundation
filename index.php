@@ -30,7 +30,9 @@
 
 			<div class="row">
 				<div class="col-xs-12">
-					<p>Bootstrap — 
+					<p>Bootstrap — http://getbootstrap.com/</p>
+					<p>Typekit — https://typekit.com</p>
+					<p>Font Awesome — http://fortawesome.github.io/Font-Awesome/icons/</p>
 				</div>
 			</div>
 
